@@ -6,12 +6,12 @@ This is a Hello World program created to utilize the built in functionality of V
 
 # Development Environment
 
-*Python
-*Visual Studio Code
-*Git
-*Github
+* Python
+* Visual Studio Code
+* Git
+* Github
 
 # Useful Websites
 
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
+* [Visual Studio and Github](https://code.visualstudio.com/docs/editor/github)
